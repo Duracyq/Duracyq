@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 * ✉️  You can contact me at [szymonkajak542@gmail.com](mailto:szymonkajak542@gmail.com)
-* 🚀  I'm currently working on [MalachApp](http://github.com/Duracyq/malachApp)
 * 🧠  I'm learning Flutter + Dart
 * 🤝  I'm open to collaborating on interesting projects
 
